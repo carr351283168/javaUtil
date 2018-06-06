@@ -1,4 +1,4 @@
-package annotation;
+package xmlUtil.annotation;
 
 import java.lang.annotation.*;
 

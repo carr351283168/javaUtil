@@ -1,7 +1,6 @@
-package model;
+package xmlUtil.model;
 
-import annotation.AliasName;
-import annotation.Ignore;
+import xmlUtil.annotation.AliasName;
 
 public class Xml {
 

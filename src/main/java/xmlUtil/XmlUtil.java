@@ -1,11 +1,12 @@
-import annotation.AliasName;
-import annotation.Ignore;
-import model.Xml;
+package xmlUtil;
+
+import xmlUtil.annotation.AliasName;
+import xmlUtil.annotation.Ignore;
+import xmlUtil.model.Xml;
 import org.dom4j.Document;
 import org.dom4j.DocumentHelper;
 import org.dom4j.Element;
 
-import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 
 public class XmlUtil {
